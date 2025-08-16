@@ -45,3 +45,13 @@ Evaluated the model using metrics:
 
 ## 6. Prediction
 - Generated predictions on unseen test data.
+
+## Results
+- Built and evaluated a regression model for predicting house prices.
+- Achieved insights into the most influential features affecting SalePrice.
+- Visualized correlations and performance metrics to assess prediction accuracy.
+
+## Model Performance (Errors)
+- Mean absolute error: 19676.36117015432
+- Mean squared error: 931750864.5052171
+- Root mean squared error: 30524.594419995447
