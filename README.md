@@ -39,9 +39,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 5. Evaluation
 Evaluated the model using metrics:
--Mean Squared Error (MSE)
--Mean Absolute Error (MAE)
--Root Mean Squared Error (RMSE)
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
 
 ## 6. Prediction
--Generated predictions on unseen test data.
+- Generated predictions on unseen test data.
